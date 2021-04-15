@@ -7,7 +7,7 @@ This program uses a MySQL database and it was programmed with object oriented pr
 ## About Company
 Company's information and source codes removed because request of the company.
 
-Photos of Projects
+## Photos of Projects
 
 ![1](https://user-images.githubusercontent.com/82611014/114929184-24597180-9e3c-11eb-9783-97c41b97d9d2.png)
 ![2](https://user-images.githubusercontent.com/82611014/114929851-ffb1c980-9e3c-11eb-97c7-5bf0dce5f66c.png)
