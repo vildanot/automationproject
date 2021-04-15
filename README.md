@@ -1,13 +1,14 @@
 # automationproject
 An automation project for plastic company. It was written for school project. 
 
-About Project
+-About Project
 This program uses a MySQL database and it was programmed with object oriented programming. The programming language is C#. 
 
-About Company
+-About Company
 Company's information and source codes removed because request of the company.
 
 Photos of Projects
+
 ![1](https://user-images.githubusercontent.com/82611014/114929184-24597180-9e3c-11eb-9783-97c41b97d9d2.png)
 ![2](https://user-images.githubusercontent.com/82611014/114929851-ffb1c980-9e3c-11eb-97c7-5bf0dce5f66c.png)
 ![3](https://user-images.githubusercontent.com/82611014/114929876-06404100-9e3d-11eb-9d9e-c9782d0ec795.png)
@@ -19,7 +20,8 @@ Photos of Projects
 ![9](https://user-images.githubusercontent.com/82611014/114929892-0a6c5e80-9e3d-11eb-9e7d-851d58b0bd64.png)
 ![10](https://user-images.githubusercontent.com/82611014/114929895-0b04f500-9e3d-11eb-9f0c-9adb3e5292d2.png)
 
-About Project Team
+-About Project Team
+
 Uğur ILGIN
 Vildan ÖT
 Şeyda KOÇAK
